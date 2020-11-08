@@ -1,0 +1,39 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.home-div {
+  text-align: center;
+  background-color: #66b3ff;
+  margin: auto;
+  width: 80%;
+}
+
+.home-title {
+  background-image: url(https://cdn.glitch.com/20ba225c-c883-4bdc-b75f-b96afecb9d7b%2Fchild%20labor%202.jpg?v=1603651931327);
+  height: auto;
+  width: 100%;
+  padding: 10px 0px 10px;
+  background-size: contain;
+  
+}
+
+.info-div {
+  text-align: left;
+  background-color: #030302;
+  margin: auto;
+  width: auto;
+}
+
+.ramsey-wrapper {
+  width: 60%;
+  margin: auto;
+}
